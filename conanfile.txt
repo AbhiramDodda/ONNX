@@ -1,0 +1,12 @@
+[requires]
+nlohmann_json/3.11.3
+catch2/3.5.0
+
+[generators]
+CMakeDeps
+CMakeToolchain
+
+[options]
+
+[layout]
+cmake_layout
